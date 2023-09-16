@@ -1,4 +1,5 @@
 # Xây Dựng Màn Hình Có Chức Năng Đăng Nhập Vào Ứng Dụng (sử dụng Activity & Explicit Intent)
+## Ngôn Ngữ : Android 
 ## Yêu cầu :
 ### - Xây dựng màn hình có chức năng đăng nhập vào ứng dụng có tên My Application.
 ### - Khi ứng dụng được khởi động xuất hiện màn hình đăng nhập vào ứng dụng.
